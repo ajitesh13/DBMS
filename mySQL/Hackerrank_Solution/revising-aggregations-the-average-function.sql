@@ -1,1 +1,1 @@
-revising-aggregations-the-average-function
+SELECT avg(population) FROM CITY WHERE DISTRICT = "CALIFORNIA";
